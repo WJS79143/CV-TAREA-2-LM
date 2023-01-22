@@ -1,0 +1,27 @@
+body { 
+    margin: 5%;
+    background-color: #f0c897;
+}
+
+.Principal {
+    border-style:dotted;
+    border-color: black;
+    display: flex;
+    grid-template-columns: auto auto auto;
+    padding-left: 50px;
+}
+.img {
+    width: 150px;
+    height: 150px;
+}
+.Extracto {
+    text-align: justify;
+    width: 50%;
+    padding-left: 25px;
+}
+
+table { 
+    border-spacing: 10px;
+    border-collapse: separate;
+}
+   
